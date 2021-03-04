@@ -1,4 +1,4 @@
 # trial
-just trying
+basic python codes for data science for beginners
 
-first file
+including numpy , pandas and matplotlib
